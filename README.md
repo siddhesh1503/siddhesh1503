@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Aspiring Data Scientist and Full Stack Developer pursuing a B.E. in Computer Engineering from Smt. Indira Gandhi College of Engineering, Navi Mumbai. Proficient in Python, Machine Learning, React, Node.js, and analytical workflows. Hands-on experience in building real-time collaborative systems, ML-driven prediction models, robust backend APIs, and security-focused applications. Strong academic and practical background in DSA, OOP, DBMS, and software engineering principles. Passionate about designing scalable architectures, optimizing system performance, and applying modern development practices to create impactful real-world solutions.**
 
-- 📫 How to reach me **siddheshshinde152004@gmail.com**
+- 📫 How to reach me: **siddheshshinde152004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1o8PFaJsDywwYayVv99bp8zYVERCLEoI5/view?usp=sharing](https://drive.google.com/file/d/1o8PFaJsDywwYayVv99bp8zYVERCLEoI5/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_tnBbEVe3pUhDRnJqh2BCWBPh0yRq3P0/view?usp=sharing)
 
 - ⚡ Fun fact **I trained my first ML model before I fully understood what “feature engineering” meant.**
 
