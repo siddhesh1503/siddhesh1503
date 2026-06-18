@@ -27,3 +27,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddhesh1503&show_icons=true&locale=en" alt="siddhesh1503" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhesh1503&" alt="siddhesh1503" /></p>
+
+### Let's Connect 🤝:
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
+
+![GitHub GIF](githubgif.gif)
+
