@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **siddheshshinde152004@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_tnBbEVe3pUhDRnJqh2BCWBPh0yRq3P0/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1kZVoeMRI3Nabk7A2T3OXDPoSh5YlceSI/view?usp=drive_link)
 
 - ⚡ Fun fact **I trained my first ML model before I fully understood what “feature engineering” meant.**
 
